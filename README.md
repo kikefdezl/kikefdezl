@@ -12,5 +12,5 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/e-laguilhoat/"><img src="https://img.shields.io/badge/-%20Enrique Fernández&#8209Laguilhoat-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:enriquelagui@outlook.com"><img src="https://img.shields.io/badge/-enriquelagui@outlook.com-D14836?style=flat&logo=microsoftoutlook&logoColor=white"/></a>
+<a href="mailto:enriquelagui@outlook.com"><img src="https://img.shields.io/badge/-enriquelagui@outlook.com-127CD6?style=flat&logo=microsoftoutlook&logoColor=white"/></a>
 </p>
