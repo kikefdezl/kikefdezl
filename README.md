@@ -1,4 +1,6 @@
-<h1 align="center">Hello there, I'm Kike</h1>
+<h1 align="center">Hi, I'm Kike</h1>
+
+<p>Welcome to my page! </br> I'm Kike, a ML developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/> <b>Madrid, Spain</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Strasbourg, France</b>. I love building cool things, so feel free to reach out!</p>
 
 <p align="center">
 <a href="https://github.com/kikefdezl">
