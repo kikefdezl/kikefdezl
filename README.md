@@ -1,7 +1,4 @@
-<h1 align="center">Hi , I'm Kike</h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=ML+Engineer;&color=ffb38c&center=true&width=500&height=50"></a>
-</p>
+<h1 align="center">Hello there, I'm Kike</h1>
 
 <p align="center">
 <a href="https://github.com/kikefdezl">
