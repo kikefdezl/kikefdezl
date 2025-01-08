@@ -1,7 +1,7 @@
 <h1 align="center">Hey! I'm Kike</h1>
 
 <p align="center">Welcome to my GitHub! I'm a ML developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/> <b>Madrid, Spain</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Strasbourg, France</b>.</p>
-<p align="center">I'm passionate about writing ML software using mainly Python <img src="https://img.icons8.com/?size=48&id=13441&format=png" width="13"/> and Rust <img src="https://static-00.iconduck.com/assets.00/language-rust-icon-512x512-m42esrdp.png" width="13"/>! I enjoy working with Linux <img src="https://cdn.pixabay.com/photo/2017/01/31/15/33/linux-2025130_960_720.png" width="13"/> and tools like Neovim <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" width="13"/>.</p>
+<p align="center">I'm passionate about writing ML software using mainly Python <img src="https://img.icons8.com/?size=48&id=13441&format=png" width="13"/> and Rust <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/rust-1.png" width="14"/>! I enjoy working with Linux <img src="https://cdn.pixabay.com/photo/2017/01/31/15/33/linux-2025130_960_720.png" width="13"/> and tools like Neovim <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" width="13"/>.</p>
 
 <p align="center">Feel free to reach out!</p>
 
