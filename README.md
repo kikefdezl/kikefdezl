@@ -1,18 +1,40 @@
 <h1 align="center">Hey! I'm Kike</h1>
+<p align="center"><i>Software & ML Engineer</i></p>
 
-<p align="center">Welcome to my GitHub! I'm a ML developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/> <b>Madrid, Spain</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Strasbourg, France</b>.</p>
-<p align="center">I'm passionate about writing ML software using mainly Python <img src="https://img.icons8.com/?size=48&id=13441&format=png" width="13"/> and Rust <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/rust-1.png" width="14"/>! I enjoy working with Linux <img src="https://cdn.pixabay.com/photo/2017/01/31/15/33/linux-2025130_960_720.png" width="13"/> and tools like Neovim <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" width="13"/>.</p>
+<p align="center"> 
+  I'm passionate about ML systems, developer tooling & low-level programming. Feel free to reach out!
+</p>
 
-<p align="center">Feel free to reach out!</p>
-
+---
 <p align="center">
-<a href="https://github.com/kikefdezl">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kikefdezl&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kikefdezl&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
+  📍 <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/> Madrid ↔ <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> Strasbourg
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/e-laguilhoat/"><img src="https://img.shields.io/badge/-%20Enrique Fernández&#8209Laguilhoat-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:enriquelagui@outlook.com"><img src="https://img.shields.io/badge/-enriquelagui@outlook.com-127CD6?style=flat&logo=microsoftoutlook&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
+
+<p align="center">
+  <a href="mailto:enriquelagui@outlook.com">
+    <img src="https://img.shields.io/badge/Email-enriquelagui@outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/e-laguilhoat/">
+    <img src="https://img.shields.io/badge/LinkedIn-e--laguilhoat-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+
+# Projects:
+* 🖥️ [mltop](https://github.com/kikefdezl/mltop) - System resource monitor for Machine Learning workflows
+* 🔥 [rust-gpt2](https://github.com/kikefdezl/rust-gpt2.git) - GPT2 written in Rust using Burn
+* 🕵️ [codenames-AI](https://github.com/kikefdezl/codenames-AI.git) - An AI to play codenames with
+* ❄️ [nordify](https://github.com/kikefdezl/nordify) - Nordify your images without the visual artifacts
+* 🎄 [advent-of-code](https://github.com/kikefdezl/advent-of-code.git) - My Advent of Code solutions
+* ⌨️ [keystats](https://github.com/kikefdezl/keystats.git) - Listen to your keyboard inputs and log them to a JSON file
+* ☕ [caffeine-calculator](https://github.com/kikefdezl/caffeine-calculator.git) - Calculate and plot the caffeine in your bloodstream along the day
+* ✂️ [coco-bbox-to-seg](https://github.com/kikefdezl/coco-bbox-to-seg.git) - Convert your COCO dataset from bboxes to segmentation masks
+* 📡 [RadEfficientDet](https://github.com/kikefdezl/RadEfficientDet.git) - An EfficientDet-based Radar-Camera fusion pipeline using the NuScenes dataset 
