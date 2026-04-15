@@ -30,6 +30,7 @@
 
 # Projects:
 * 🖥️ [mltop](https://github.com/kikefdezl/mltop) - System resource monitor for Machine Learning workflows
+* 🏎️ [f1-term](https://github.com/kikefdezl/f1-term) - A TUI for following live F1 Telemetry 
 * 🔥 [rust-gpt2](https://github.com/kikefdezl/rust-gpt2.git) - GPT2 written in Rust using Burn
 * 🕵️ [codenames-AI](https://github.com/kikefdezl/codenames-AI.git) - An AI to play codenames with
 * ❄️ [nordify](https://github.com/kikefdezl/nordify) - Nordify your images without the visual artifacts
