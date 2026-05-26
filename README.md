@@ -2,13 +2,14 @@
 <p align="center"><i>Software & ML Engineer</i></p>
 
 <p align="center"> 
-  I'm passionate about ML systems, developer tooling & low-level programming. Feel free to reach out!
+  I'm a Software Engineer from Madrid, living in Strasbourg.
+</p>
+
+<p align="center"> 
+  I focus on building ML services and infrastructure. In my free time, you'll catch me building all kinds of projects or configuring my Linux tooling. Feel free to reach out!
 </p>
 
 ---
-<p align="center">
-  📍 <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/> Madrid ↔ <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> Strasbourg
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
