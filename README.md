@@ -9,7 +9,7 @@
   My work focuses on ML Engineering, end to end. In my free time, I'm always working on side projects or tinkering with my Linux setup.
 </p>
 
-Interested in: <p align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
