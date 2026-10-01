@@ -25,6 +25,7 @@
 * 🔥 [rust-gpt2](https://github.com/kikefdezl/rust-gpt2.git) - GPT2 written in Rust using Burn
 * 🕵️ [codenames-AI](https://github.com/kikefdezl/codenames-AI.git) - An AI to play codenames with
 * ❄️ [nordify](https://github.com/kikefdezl/nordify) - Nordify your images without the visual artifacts
+* 🐉 [ripdrag.nvim](https://github.com/kikefdezl/ripdrag.nvim) - A Neovim plugin to drag and drop files from Oil
 * 🎄 [advent-of-code](https://github.com/kikefdezl/advent-of-code.git) - My Advent of Code solutions
 * ⌨️ [keystats](https://github.com/kikefdezl/keystats.git) - Listen to your keyboard inputs and log them to a JSON file
 * ☕ [caffeine-calculator](https://github.com/kikefdezl/caffeine-calculator.git) - Calculate and plot the caffeine in your bloodstream along the day
@@ -36,8 +37,8 @@
 
 
 <p align="center">
-  <a href="mailto:enriquelagui@outlook.com">
-    <img src="https://img.shields.io/badge/Email-enriquelagui@outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" />
+  <a href="mailto:laguilhoat@proton.me">
+  <img src="https://img.shields.io/badge/Email-laguilhoat@proton.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/e-laguilhoat/">
     <img src="https://img.shields.io/badge/LinkedIn-e--laguilhoat-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
