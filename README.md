@@ -10,7 +10,7 @@
 </p>
 
 <p> 
-  My professional work focuses on AI & ML Engineering, but I like to do a bit of everything. I'm always working on fun side projects,tinkering with my Linux setup or learning new stuff.
+  My professional work focuses on AI & ML Engineering, but I like to do a bit of everything. I'm always working on fun side projects, tinkering with my Linux setup or learning new stuff.
 </p>
 
 <p align="center">
