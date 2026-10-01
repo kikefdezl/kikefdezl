@@ -6,7 +6,11 @@
 </p>
 
 <p> 
-  My work focuses on ML Engineering, end to end. In my free time, I'm always working on side projects or tinkering with my Linux setup.
+  Software is a craft. And we all live happier lives if we spend it perfecting and mastering our craftsmanship.
+</p>
+
+<p> 
+  My professional work focuses on AI & ML Engineering, but I like to do a bit of everything. I'm always working on fun side projects,tinkering with my Linux setup or learning new stuff.
 </p>
 
 <p align="center">
