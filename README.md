@@ -6,7 +6,7 @@
 </p>
 
 <p> 
-  We are happier when we give our lives to mastering a craft, and software is a craft worth mastering.
+  <i>We are happier when we give our lives to mastering a craft, and software is a craft worth mastering.</i>
 </p>
 
 <p> 
