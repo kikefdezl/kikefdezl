@@ -6,7 +6,7 @@
 </p>
 
 <p> 
-  Software is a craft. And we all live happier lives if we spend it perfecting and mastering our craftsmanship.
+  We are happier when we give our lives to mastering a craft, and software is a craft worth mastering.
 </p>
 
 <p> 
@@ -24,17 +24,17 @@
 ---
 
 # Projects:
-* 🖥️ [mltop](https://github.com/kikefdezl/mltop) - System resource monitor for Machine Learning workflows
-* 🏎️ [f1-term](https://github.com/kikefdezl/f1-term) - A TUI to stream live F1 Telemetry 
-* 🔥 [rust-gpt2](https://github.com/kikefdezl/rust-gpt2.git) - GPT2 written in Rust using Burn
-* 🕵️ [codenames-AI](https://github.com/kikefdezl/codenames-AI.git) - An AI to play codenames with
-* ❄️ [nordify](https://github.com/kikefdezl/nordify) - Nordify your images without the visual artifacts
-* 🐉 [ripdrag.nvim](https://github.com/kikefdezl/ripdrag.nvim) - A Neovim plugin to drag and drop files from Oil
-* 🎄 [advent-of-code](https://github.com/kikefdezl/advent-of-code.git) - My Advent of Code solutions
-* ⌨️ [keystats](https://github.com/kikefdezl/keystats.git) - Listen to your keyboard inputs and log them to a JSON file
-* ☕ [caffeine-calculator](https://github.com/kikefdezl/caffeine-calculator.git) - Calculate and plot the caffeine in your bloodstream along the day
-* ✂️ [coco-bbox-to-seg](https://github.com/kikefdezl/coco-bbox-to-seg.git) - Convert your COCO dataset from bboxes to segmentation masks
-* 📡 [RadEfficientDet](https://github.com/kikefdezl/RadEfficientDet.git) - An EfficientDet-based Radar-Camera fusion pipeline using the NuScenes dataset
+* [mltop](https://github.com/kikefdezl/mltop) - System resource monitor for Machine Learning workflows
+* [f1-term](https://github.com/kikefdezl/f1-term) - A TUI to stream live F1 Telemetry 
+* [rust-gpt2](https://github.com/kikefdezl/rust-gpt2.git) - GPT2 written in Rust using Burn
+* [codenames-AI](https://github.com/kikefdezl/codenames-AI.git) - An AI to play codenames with
+* [nordify](https://github.com/kikefdezl/nordify) - Nordify your images without the visual artifacts
+* [ripdrag.nvim](https://github.com/kikefdezl/ripdrag.nvim) - A Neovim plugin to drag and drop files from Oil
+* [advent-of-code](https://github.com/kikefdezl/advent-of-code.git) - My Advent of Code solutions
+* [keystats](https://github.com/kikefdezl/keystats.git) - Listen to your keyboard inputs and log them to a JSON file
+* [caffeine-calculator](https://github.com/kikefdezl/caffeine-calculator.git) - Calculate and plot the caffeine in your bloodstream along the day
+* [coco-bbox-to-seg](https://github.com/kikefdezl/coco-bbox-to-seg.git) - Convert your COCO dataset from bboxes to segmentation masks
+* [RadEfficientDet](https://github.com/kikefdezl/RadEfficientDet.git) - An EfficientDet-based Radar-Camera fusion pipeline using the NuScenes dataset
 
 
 
